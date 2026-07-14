@@ -1,0 +1,6 @@
+interface:
+  display_name: "房语彩色小黑"
+  short_description: "为小黑分配颜色角色，让多个小黑在真实物件场景里协同工作"
+  default_prompt: "Use $fangyu-xiaohei-colors to 根据这段中文内容判断应使用哪些彩色小黑角色，设计它们的分工、协同动作和可直接生图的提示词。"
+policy:
+  allow_implicit_invocation: true
