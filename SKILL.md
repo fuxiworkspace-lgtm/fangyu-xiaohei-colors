@@ -30,6 +30,17 @@ description: |
 - `references/qa-checklist.md`：生成前后检查，防止变成彩虹吉祥物或无意义装饰。
 - `assets/examples/`：彩色小黑家族和协同场景参考图，只作为质量锚点，不机械复刻。
 
+图片锚点使用方式：
+
+- `assets/examples/capsule-collaboration-reference.png`：最重要的胶囊款形体锚点。优先对齐它的胶囊轮廓、白色小眼睛、极细四肢和真实物件协同关系。
+- `assets/examples/five-colors-ai-workbench.png`：五色角色协同完成 AI 工作台任务，适合系统接入、项目推进、AI 工具场景。
+- `assets/examples/five-colors-event-workflow.png`：五色角色协同完成活动流程，适合活动预热、入场、系统支持、关系连接。
+- `assets/examples/five-colors-risk-repair.png`：五色角色协同完成风险修复，适合报警、诊断、修复、恢复连续性的场景。
+- `assets/examples/role-collaboration-daily-tool.png`：AI 从尝鲜进入日常工具的锚点，小蓝/小黑/小绿分工清楚。
+- `assets/examples/role-collaboration-time-limit.png`：额度限制和用户时间竞争锚点，小蓝/小红/小黑分工清楚。
+- `assets/examples/role-collaboration-trust-environment.png`：信任入口和工作环境锚点，小黑/小蓝/小绿/小红形成结尾升维关系。
+- `assets/examples/color-family-design-board.png`：早期色彩家族设定参考，只用于理解颜色角色；正式形体以胶囊款协同图为准。
+
 如果用户同时要求“小黑 2.0 / 真实物件 / 长卷故事图 / 正文配图”，应结合原有 Xiaohei Scenes 2.0 工作流：先做内容提炼、母版锁定、真实物件隐喻，再用本 skill 做颜色角色路由和协同动作设计。
 
 ## Core Flow
