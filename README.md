@@ -8,7 +8,7 @@
 
 颜色不只是换皮，而是让抽象内容变成一场“看得见的小人协作”。
 
-> 如果这个方向对你有启发，欢迎点个 Star 支持一下。
+> 如果这个方向对你有启发，欢迎点个 Star 支持一下。✨✨✨✨✨✨✨
 > 你的 Star 会帮助这个小小的角色系统继续长出更多场景、动作和视觉锚点。
 
 [![Star this repo](https://img.shields.io/github/stars/fuxiworkspace-lgtm/fangyu-xiaohei-colors?style=for-the-badge&logo=github&label=Star%20支持)](https://github.com/fuxiworkspace-lgtm/fangyu-xiaohei-colors)
