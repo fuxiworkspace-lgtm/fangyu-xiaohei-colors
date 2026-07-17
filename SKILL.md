@@ -1,7 +1,7 @@
 ---
 name: fangyu-xiaohei-colors
 description: |
-  房语彩色小黑角色协同系统。Use when the user wants to generate, design, refine, or route colored Xiaohei characters for Chinese article illustrations, Xiaohei 2.0 scenes, real-object metaphor images, long-scroll story images, or character design sheets. Trigger on 彩色小黑, 房语小黑, 小黑颜色, 小红小绿小蓝小黄, 颜色分身, 角色分工, 角色协同, 小黑家族, Xiaohei colors, or when content needs Xiaohei variants to express alarm, repair, system, opportunity, trust, conflict, growth, workflow, or team collaboration. This skill fixes the colored Xiaohei IP, assigns semantic roles by input scene, and composes multiple colored Xiaohei figures into coordinated physical actions while preserving the original Xiaohei silhouette and Xiaohei 2.0 real-object style.
+  房语彩色小黑角色协同系统：把中文文章、产品观点、职场处境、活动流程、AI 工作流、市场波动等抽象内容，转译成一群保持胶囊款形体的彩色 Xiaohei，在真实物件场景中分工协同完成一件事。Use when the user wants to generate, design, refine, or route colored Xiaohei characters, Xiaohei 2.0 illustrations, real-object metaphors, long-scroll story images, or character sheets. Trigger on 彩色小黑, 房语小黑, 小黑颜色, 小红小绿小蓝小黄, 颜色分身, 角色分工, 角色协同, 小黑家族, Xiaohei colors, or content involving alarm, repair, system, opportunity, trust, conflict, growth, workflow, finance, or team collaboration. The skill selects colors by narrative function, assigns concrete physical actions, preserves the fixed capsule silhouette, and produces reusable prompts for coherent multi-character image generation.
 ---
 
 # 房语彩色小黑角色协同系统
