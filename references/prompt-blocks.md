@@ -14,6 +14,13 @@ Fangyu Xiaohei color routing:
 Use {角色组合} because {选择理由}. Color expresses narrative function, not decoration. Every colored Xiaohei keeps the exact same vertical capsule silhouette, small white oval/dot eyes, very thin limbs, blank serious expression, no clothes, no hats, and the same physical-action logic. Only the matte body color changes.
 ```
 
+## 自适应出场人数模块
+
+```text
+Adaptive character routing:
+Do not automatically show the full colored Xiaohei family. First classify the input as S single-point, M two-point relationship, L collaboration, XL ensemble, or Ensemble character-sheet mode. Use the smallest sufficient set of characters: {人数} characters, specifically {角色组合}. Add a character only when removing it would erase an essential narrative function or physical action. For a simple scene, preserve generous negative space and use one character if one character is enough. Five or more characters are allowed only when the user explicitly requests a family group, character sheet, or complex multi-party collaboration.
+```
+
 ## 协同动作模块
 
 ```text
@@ -59,7 +66,7 @@ Handwritten Chinese labels:
 {短标签1} / {短标签2} / {短标签3}
 
 Constraints:
-No UI screenshot, no app logo, no unrequested company name, no dense text, no workflow chart, no dark tech background, no office room background. Do not turn colored Xiaohei into mascots, factions, superheroes, children cartoon characters, or costume variants. Do not create oversized round heads, separate heads and torsos, pupils-heavy cute faces, Minions-like characters, or glossy plastic toy mascots. Do not change face, eyes, limbs, proportions, or personality to explain color. Do not use a rainbow lineup unless the user explicitly asks for a character design sheet. Every colored Xiaohei must perform a physical action with real objects.
+No UI screenshot, no app logo, no unrequested company name, no dense text, no workflow chart, no dark tech background, no office room background. Do not turn colored Xiaohei into mascots, factions, superheroes, children cartoon characters, or costume variants. Do not create oversized round heads, separate heads and torsos, pupils-heavy cute faces, Minions-like characters, or glossy plastic toy mascots. Do not change face, eyes, limbs, proportions, or personality to explain color. Do not use a rainbow lineup unless the user explicitly asks for a character design sheet. Do not force five characters into a simple scene. Do not add decorative or spectator characters. Every colored Xiaohei must perform a physical action with real objects, and the total character count must follow the adaptive routing decision.
 ```
 
 ## 长卷提示词补充
