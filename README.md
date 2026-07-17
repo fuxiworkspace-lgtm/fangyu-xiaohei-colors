@@ -5,6 +5,9 @@
 房语彩色小黑角色协同系统，是一套为中文内容配图和 AI 生图设计的角色化 Skill。
 
 它把一个固定的胶囊款 Xiaohei，扩展成一支可以按需调度的视觉团队：小黑推进主线，小红拉响警报，小蓝接入系统，小绿负责修复，小黄点亮机会，小灰承接疲惫与等待。
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/28c69e68-a524-4962-8be0-4078a655d052" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/befe5221-350c-468c-a7d3-966ecce19397" />
+
 
 颜色不只是换皮，而是让抽象内容变成一场“看得见的小人协作”。
 
