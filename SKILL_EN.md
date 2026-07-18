@@ -87,6 +87,19 @@ Color temperament -> scene meaning -> physical action -> relationship
 
 The same color may enter different scenes as long as the scene stays connected to its core temperament. Do not randomly change a character's personality just to add variety.
 
+## Tension states
+
+Characters can shift through four states without changing their fixed capsule identity:
+
+| State | Visual behavior |
+| --- | --- |
+| Low tension | Observe, wait, prepare, lightly touch, leave space |
+| Medium tension | Push, tune, pull, carry, connect, negotiate |
+| High tension | Brace, block, rescue, overload, break through, hold a line |
+| Closing | Repair, hand over, release, reset, continue, or leave a new question |
+
+Show tension through real physical relationships: taut strings, tilted objects, blocked doors, overloaded containers, broken bridges, unfinished papers, or a task that is almost moving. Do not rely on exaggerated facial expressions. For a single 16:9 image, usually choose one dominant tension state; let longer stories evolve state by state.
+
 ## Capsule character lock
 
 Every colored Xiaohei must be:
