@@ -65,14 +65,24 @@ This keeps simple images spacious and readable, while allowing complex stories t
 | Character | Narrative function | Typical scenes |
 | --- | --- | --- |
 | Black | Main subject, user, default operator | Work situations, ordinary frustration, story spine |
-| Red | Alarm, conflict, risk, emotional peak | Competition, limits, crisis, market pressure |
-| Green | Repair, stability, trust, connection | Recovery, continuity, long-term support |
-| Blue | Systems, tools, code, data | AI workflows, automation, products, technology |
-| Yellow | Opportunity, reminder, launch, spark | Warm-up, registration, ideas, beginnings |
-| Gray | Fatigue, transition, waiting, low energy | Being stuck, uncertainty, slow review |
-| White | Blank state, waiting for input, openness | Empty page, not started, pending confirmation |
+| Red | High energy, attention, pressure, heat | Alarm, conflict, competition, market heat, China-market up days, celebration |
+| Green | Flow, recovery, connection, vitality | Repair, trust, growth, passing, China-market down days, relationships |
+| Blue | Reason, structure, order, infrastructure | Systems, tools, code, data, rules, monitoring, automation |
+| Yellow | Activation, reminder, possibility, turning point | Opportunity, ideas, launch, warm-up, invitation, breakthrough |
+| Gray | Friction, low energy, transition, aftermath | Fatigue, waiting, being stuck, hesitation, review, delay |
+| White | Space, unknown, pause, undefined possibility | Blank state, reset, pending input, openness, a new beginning |
 
-Colors are narrative functions. If a character has no irreplaceable job, it stays off stage.
+Colors are stable character temperaments, not single fixed labels. The scene meaning is selected from the input. If a character has no irreplaceable job, it stays off stage.
+
+### Expressive range
+
+Use this three-layer mapping for every selected color:
+
+```text
+Color temperament -> scene meaning -> physical action
+```
+
+Red can represent danger, pressure, heat, competition, celebration, or an up day in the Chinese market context. Green can represent repair, trust, growth, connection, or a down day in the Chinese market context. Blue can move between systems, rules, data, monitoring, and infrastructure. Yellow can move between opportunity, reminder, launch, hope, and a turning point. Gray can express fatigue, delay, ambiguity, aftermath, or slow review. White can express blankness, reset, unknown possibility, or waiting for input.
 
 ## Capsule character lock
 
