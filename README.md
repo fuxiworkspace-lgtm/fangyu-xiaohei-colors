@@ -5,7 +5,6 @@
 ## Give Every Xiaohei a Job.
 
 房语彩色小黑角色协同系统，是一套为中文内容配图和 AI 生图设计的角色化 Skill。
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/94e1b236-1115-4fc7-95aa-114dfb2b62ae" />
 
 
 它把一个固定的胶囊款 Xiaohei，扩展成一支可以按需调度的视觉团队：小黑推进主线，小红拉响警报，小蓝接入系统，小绿负责修复，小黄点亮机会，小灰承接疲惫与等待。
