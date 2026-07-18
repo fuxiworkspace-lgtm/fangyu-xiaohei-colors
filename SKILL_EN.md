@@ -67,7 +67,25 @@ Crowding risk: low / medium / high
 | Gray | Warm mist `#62666B` | Fatigue, transition, waiting, low energy | Drag a folder, wait, hold paper, move slowly |
 | White | Soft warm cream `#E8DFCF` | Blank state, openness, pending input | Hold a blank card, guard an empty entrance |
 
-Color is narrative function, not decoration. If a role cannot explain its meaning, action, and collaboration, remove it.
+Color is a stable character temperament, not a single fixed label or decoration. The input selects the scene expression. If a role cannot explain its temperament, meaning, action, and collaboration, remove it.
+
+### Expressive range by temperament
+
+Use this mapping for every selected color:
+
+```text
+Color temperament -> scene meaning -> physical action -> relationship
+```
+
+- Black: mainline, reality, responsibility, persistence, decision, ordinary life, pressure, and forward motion. Push, carry, drag, hold, block, or continue.
+- Red: high energy, high attention, pressure, heat, and burst. Alarm, conflict, competition, urgency, market heat, China-market up days, or celebration. Pull a warning cord, tighten a competition rope, press a button, ring a bell, raise a gauge, or pull an upward market line.
+- Green: flow, recovery, connection, vitality, and outcomes. Repair, stability, trust, growth, passing, relationships, China-market down days, or restored order. Reconnect a wire, patch a hole, support a bridge, water a plant, steady an object, or drag a downward market line.
+- Blue: reason, structure, order, distance, and infrastructure. Systems, rules, data, code, monitoring, automation, boundaries, or technical judgment. Plug in, tune, calibrate, measure, organize ports, archive, or build a frame.
+- Yellow: activation, reminder, possibility, lightness, and turning points. Opportunity, inspiration, launch, warm-up, hope, invitation, discovery, or a breakthrough. Light a lamp, hand over a key, open a door, pull a curtain, place a note, or raise a signal flag.
+- Gray: friction, low energy, transition, ambiguity, and aftermath. Fatigue, waiting, being stuck, hesitation, review, silence, delay, or the residue after an event. Drag slowly, wait, hold paper, clear debris, guard an empty seat, or sit with a pending task.
+- White: space, unknown, pause, and undefined possibility. Blankness, beginning, reset, pending input, openness, or an unanswered question. Hold a blank card, guard an entrance, open an empty box, wait for a stamp, or leave room for the next step.
+
+The same color may enter different scenes as long as the scene stays connected to its core temperament. Do not randomly change a character's personality just to add variety.
 
 ## Capsule character lock
 
