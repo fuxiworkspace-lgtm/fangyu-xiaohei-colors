@@ -11,7 +11,7 @@ Every colored Xiaohei is the same small solid matte capsule-shaped working figur
 
 ```text
 Fangyu Xiaohei color routing:
-Use {角色组合} because {选择理由}. For each selected color, specify its core temperament, scene meaning, and physical verb: {颜色} = {核心气质} -> {场景语义} -> {物理动作}. Color expresses a stable character temperament, not a single fixed label or decoration. Every colored Xiaohei keeps the exact same vertical capsule silhouette, small white oval/dot eyes, very thin limbs, blank serious expression, no clothes, no hats, and the same physical-action logic. Only the matte body color changes.
+Use {角色组合} because {选择理由}. For each selected color, specify its core temperament, scene meaning, tension state, and physical verb: {颜色} = {核心气质} -> {场景语义} -> {张力状态} -> {物理动作}. Color expresses a stable character temperament, not a single fixed label or decoration. Every colored Xiaohei keeps the exact same vertical capsule silhouette, small white oval/dot eyes, very thin limbs, blank serious expression, no clothes, no hats, and the same physical-action logic. Only the matte body color changes.
 ```
 
 ## 自适应出场人数模块
@@ -28,7 +28,7 @@ Collaborative role actions:
 - {颜色角色1}: {具体动作}, representing {语义}.
 - {颜色角色2}: {具体动作}, representing {语义}.
 - {颜色角色3}: {具体动作}, representing {语义}.
-The characters must work on one shared real-object task. They should not stand in a lineup, hold explanatory signs, or decorate the scene.
+The characters must work on one shared real-object task. They should not stand in a lineup, hold explanatory signs, or decorate the scene. Express tension through physical relationships such as taut strings, tilted objects, blocked doors, overloaded containers, broken bridges, or unfinished papers, not through exaggerated facial expressions.
 ```
 
 ## 标准 16:9 提示词骨架
