@@ -60,6 +60,8 @@ The rule is simple: remove a character. If the scene still expresses the same me
 
 This keeps simple images spacious and readable, while allowing complex stories to grow into a real ensemble.
 
+Each character can also move through low, medium, high, and closing tension states. Show tension through taut strings, tilted objects, blocked doors, overloaded containers, broken bridges, or unfinished papers rather than exaggerated facial expressions.
+
 ## The Xiaohei family
 
 | Character | Narrative function | Typical scenes |
@@ -159,6 +161,7 @@ The Skill handles content extraction, character-count routing, color selection, 
 ## Design principles
 
 - Let color carry meaning and let action carry the story.
+- Use physical objects to show tension, escalation, repair, and release.
 - Dispatch the fewest characters needed, then give each one an irreplaceable job.
 - Make characters work on one shared real object.
 - Keep the scene readable in three seconds, with details that reward a closer look.
