@@ -11,7 +11,7 @@ Every colored Xiaohei is the same small solid matte capsule-shaped working figur
 
 ```text
 Fangyu Xiaohei color routing:
-Use {角色组合} because {选择理由}. Color expresses narrative function, not decoration. Every colored Xiaohei keeps the exact same vertical capsule silhouette, small white oval/dot eyes, very thin limbs, blank serious expression, no clothes, no hats, and the same physical-action logic. Only the matte body color changes.
+Use {角色组合} because {选择理由}. For each selected color, specify its core temperament, scene meaning, and physical verb: {颜色} = {核心气质} -> {场景语义} -> {物理动作}. Color expresses a stable character temperament, not a single fixed label or decoration. Every colored Xiaohei keeps the exact same vertical capsule silhouette, small white oval/dot eyes, very thin limbs, blank serious expression, no clothes, no hats, and the same physical-action logic. Only the matte body color changes.
 ```
 
 ## 自适应出场人数模块
